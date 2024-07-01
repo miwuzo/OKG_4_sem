@@ -1,0 +1,23 @@
+﻿  ChildView.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\ChildView.cpp(85,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\ChildView.cpp(111,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\ChildView.cpp(160,49): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\ChildView.cpp(160,36): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\ChildView.cpp(160,25): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\ChildView.cpp(160,13): warning C4244: аргумент: преобразование "const double" в "int", возможна потеря данных
+  CMatrix.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Lab02.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  LibChart2D.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\LibChart2D.cpp(205,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\LibChart2D.cpp(205,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\LibChart2D.cpp(205,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\yana\OneDrive\Рабочий стол\Lab02\Lab02\Lab02\LibChart2D.cpp(205,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MainFrm.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Создание кода...
+lab2.rc(11): fatal error RC1015: cannot open include file 'targetver.h'.
+  
